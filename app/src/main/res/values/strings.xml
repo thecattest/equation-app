@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quadratic Equation</string>
+    <string name="title">Solve equation a<b>x</b><sup><small>2</small></sup>+b<b>x</b>+c=0</string>
+    <string name="a">Enter A</string>
+    <string name="b">Enter B</string>
+    <string name="c">Enter C</string>
+    <string name="calculate">Calculate!</string>
+</resources>

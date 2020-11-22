@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Квадратное Уравнение</string>
+    <string name="title">Решить уравнение a<b>x</b><sup><small>2</small></sup>+b<b>x</b>+c=0</string>
+    <string name="a">Введите A</string>
+    <string name="b">Введите B</string>
+    <string name="c">Введите C</string>
+    <string name="calculate">Решить!</string>
+</resources>
